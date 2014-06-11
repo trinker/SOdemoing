@@ -2,7 +2,7 @@
 #' 
 #' I'm smiling already.
 #' 
-#' @param a method one of:
+#' @param method one of: \cr  
 #' "method1" - very long text here \cr 
 #' "method2" - very long text here \cr 
 #' "method3" - very long text here \cr 
@@ -13,8 +13,7 @@
 #' "method8" - very long text here \cr 
 #' "method9" - very long text here \cr 
 #' "method10" - very long text here \cr 
-#' @param b Yipee
-#' @param c Here's more...
+#' @param method2 one of:
 #' \itemize{
 #'   \item method1 - very long text here 
 #'   \item method2 - very long text here
@@ -27,12 +26,13 @@
 #'   \item method9 - very long text here 
 #'   \item method10 - very long text here 
 #' }
+#' @param x Yipee
 #' @return returns nothing good
 #' @references \url{http://stackoverflow.com/q/18835365/1000343}
 #' @export
 #' @examples
 #' FUN(1, 2, 3)
-FUN <- function(a, b, c) {
-    a + b + c
+FUN <- function(method, method2, x) {
+    method + method2 + x
 }
 

@@ -3,10 +3,10 @@
 \alias{FUN}
 \title{Fun function}
 \usage{
-FUN(a, b, c)
+FUN(method, method2, x)
 }
 \arguments{
-\item{a}{method one of:
+\item{method}{one of: \cr
 "method1" - very long text here \cr
 "method2" - very long text here \cr
 "method3" - very long text here \cr
@@ -18,9 +18,7 @@ FUN(a, b, c)
 "method9" - very long text here \cr
 "method10" - very long text here \cr}
 
-\item{b}{Yipee}
-
-\item{c}{Here's more...
+\item{method2}{one of:
 \itemize{
   \item method1 - very long text here
   \item method2 - very long text here
@@ -33,6 +31,8 @@ FUN(a, b, c)
   \item method9 - very long text here
   \item method10 - very long text here
 }}
+
+\item{x}{Yipee}
 }
 \value{
 returns nothing good

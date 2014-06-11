@@ -5,7 +5,7 @@ This is a repo created just to demonstrate more elaborate package related questi
 
 ## Installation
 
-To download the development version of anRpackage:
+To download the development version of `SOdemoing`:
 
 download the [zip ball]() or [tar ball](), decompress and run `R CMD INSTALL` on it, or use the **devtools** package to install the development version:
 
@@ -13,16 +13,18 @@ download the [zip ball]() or [tar ball](), decompress and run `R CMD INSTALL` on
 # install.packages("devtools")
 
 library(devtools)
-install_github("SOdemoing", "")
+install_github("SOdemoing", "trinker")
 ```
 
 
 ## Help
   
+[The Help Manual](https://dl.dropboxusercontent.com/u/61803503/SOdemoing.pdf)
 
 ## Contact
 
 You are welcome to:
-* submit suggestions and bug-reports at: <>
-* send a pull request on: <>
-* compose a friendly e-mail to: <>
+* submit suggestions and bug-reports at: <https://github.com/trinker/SOdemoing/issues>
+* send a pull request on: <https://github.com/trinker/qdap/>
+* compose a friendly e-mail to: <tyler.rinker@gmail.com>
+

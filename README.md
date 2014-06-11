@@ -1,7 +1,7 @@
 SO Demoing
 ===
 
-[![Build Status](https://travis-ci.org/trinker/SOdemoing.png?branch=master)](https://travis-ci.org/trinker/SOdemoing
+[![Build Status](https://travis-ci.org/trinker/SOdemoing.png?branch=master)](https://travis-ci.org/trinker/SOdemoing)
 
 
 This is a repo created just to demonstrate more elaborate package related questions and answers for help lists such as [stackoverflow.com](http://stackoverflow.com/) and [talkstats.com](http://www.talkstats.com/).

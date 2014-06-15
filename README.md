@@ -10,7 +10,8 @@ This is a repo created just to demonstrate more elaborate package related questi
 
 To download the development version of `SOdemoing`:
 
-download the [zip ball]() or [tar ball](), decompress and run `R CMD INSTALL` on it, or use the **devtools** package to install the development version:
+download the [zip ball](https://github.com/trinker/SOdemoing/zipball/master) or [tar ball](
+https://github.com/trinker/SOdemoing/tarball/master), decompress and run `R CMD INSTALL` on it, or use the **devtools** package to install the development version:
 
 ```r
 # install.packages("devtools")

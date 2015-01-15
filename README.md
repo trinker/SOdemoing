@@ -16,8 +16,7 @@ https://github.com/trinker/SOdemoing/tarball/master), decompress and run `R CMD 
 ```r
 # install.packages("devtools")
 
-library(devtools)
-install_github("SOdemoing", "trinker")
+devtools::install_github("trinker/SOdemoing")
 ```
 
 

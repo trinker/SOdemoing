@@ -1,0 +1,15 @@
+---
+title: "Intro"
+date: "`r Sys.Date()`"
+output: 
+  rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Intro}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+## Section 
+
+<iframe src="insert.html" height="400", width="100%"></iframe>
+
